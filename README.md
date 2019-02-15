@@ -35,4 +35,4 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
  			 	      ⟍    ▔▔▔▔▔    ⟋
 			    		⟍    ⧱    ⟋
 			      		  ⟍__⧱__⟋
-				     		*Knightsec* 3.7```
+				     		*Knightsec* 3.7
