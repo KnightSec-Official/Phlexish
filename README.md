@@ -13,11 +13,12 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
 # Project under MIT License!
 # I am not responsable for your actions! This tool is made only for educational purposes!
     
-```####################################################	
-#  Phlexish made and lit up by  <>,.,Knightsec,.,<> #
+```
+####################################################	
+# Phlexish made and lit up by  <>,.,Knightsec,.,<> #
 #						   #
 #						   #
-#  Instagram @Lulzsechackz		   #
+#  Instagram @Lulzsechackz		           #
 #  Github: LulzsecHackz				   #
 #  						   #
 #  More repositories soon :D			   #
