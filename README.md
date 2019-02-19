@@ -36,3 +36,8 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
 			    		⟍    ⧱    ⟋
 			      		  ⟍__⧱__⟋
 				     		*Knightsec* 3.7
+```
+##TO DO!!!
+1.- Add multiple social media 2factor phishing sites.
+2.- Send some sms to victim with Facebook name.
+3.- Improve the tool every possible way
