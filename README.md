@@ -6,7 +6,7 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
 1.  ```git clone https://github.com/lulzsechackz/Phlexish.git```
 2.  ```cd Phlexish```
 3.  ```pip3.7 install -r requirements.txt```
-    OR
+--OR--
     ```pip3 install -r requirements.txt```
 4.  ```python3.7 Phlexish.py```
 5. Have FUN!
@@ -18,9 +18,11 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
 # Phlexish made and lit up by  <>,.,Knightsec,.,<> #
 #						   #
 #						   #
-#  Instagram @Lulzsechackz		           #
-#  Github: LulzsecHackz				   #
-#  						   #
+# Instagram @knightsec_		                   #
+# Github: KnightSec-Ofiicial                       #
+# Youtube:                                         #
+# www.youtube.com/channel/UCG3kQUplyR1ktq702VpWFQg #
+#                                                  #
 #  More repositories soon :D			   #
 #						   #
 #						   #
@@ -35,9 +37,9 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
  			 	      ⟍    ▔▔▔▔▔    ⟋
 			    		⟍    ⧱    ⟋
 			      		  ⟍__⧱__⟋
-				     		*Knightsec* 3.7
+				     		*Knightsec* 1.3
 ```
 ##TO DO!!!
-1.- Add multiple social media 2factor phishing sites.
-2.- Send some sms to victim with Facebook name.
-3.- Improve the tool every possible way
+1.- Add multiple social media 2-factor phishing sites.
+2.- Send some sms to victim to scare him.
+3.- Improve the tool every possible way.
