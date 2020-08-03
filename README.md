@@ -1,6 +1,6 @@
 # Phlexish
 Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
-
+ TOOL IS NO LONGER UPDATED ! PLEASE CONTRIBUTE TO KEEP THIS TOOL UP TO DATE! 
 
 --HOWTORUN--
 1.  ```git clone https://github.com/lulzsechackz/Phlexish.git```
