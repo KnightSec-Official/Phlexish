@@ -1,4 +1,4 @@
-# Phlexish
+# Phlexish OUTDATED!
 Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
  TOOL IS NO LONGER UPDATED ! PLEASE CONTRIBUTE TO KEEP THIS TOOL UP TO DATE! 
 
@@ -18,7 +18,7 @@ Advanced Spear Phishing for Facebook with 2 factor authentication bypass!
 # Phlexish made and lit up by  <>,.,Knightsec,.,<> #
 #						   #
 #						   #
-# Instagram @knightsec_		                   #
+# Instagram @katoyama_official		                   #
 # Github: KnightSec-Ofiicial                       #
 # Youtube:                                         #
 # www.youtube.com/channel/UCG3kQUplyR1ktq702VpWFQg #
